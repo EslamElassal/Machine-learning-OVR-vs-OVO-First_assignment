@@ -25,18 +25,10 @@ Machines.
 - [matplotlib](https://matplotlib.org/) (Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python)
 - [seaborn](https://seaborn.pydata.org/) (Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.)
 )
-- [wordcloud](https://pypi.org/project/wordcloud/) (A little word cloud generator in Python)
-- [spacy](https://spacy.io/) (spaCy is a free open-source library for Natural Language Processing in Python.)
+-  
 - [tqdm](https://tqdm.github.io/) (Instantly make your loops show a smart progress meter - just wrap any iterable with)
 - [imblearn](https://pypi.org/project/imblearn/) (Toolbox for imbalanced dataset in machine learning.)
-- [gzip](https://docs.python.org/3/library/gzip.html) (This module provides a simple interface to compress and decompress files just like the GNU programs gzip and gunzip would.)
-- [fastapi](https://fastapi.tiangolo.com/) (FastAPI framework, high performance, easy to learn, fast to code, ready for production)
-- [pydentic](https://pypi.org/project/pydantic/) (Data validation and settings management using python type hints)
-- [pyngrok](https://pypi.org/project/pyngrok/) (A Python wrapper for ngrok.)
-- [unicorn](https://pypi.org/project/unicorn/) (Unicorn CPU emulator engine)
-- [pickle](https://docs.python.org/3/library/pickle.html) (Python object serialization)
-- [torch](https://pytorch.org/) (An open source machine learning framework that accelerates the path from research prototyping to production deployment)
- 
+- [gzip](https://docs.python.org/3/library/gzip.html) (This module provides a simple interface to compress and decompress files just like the GNU programs gzip and  
 # Run the Code
 - Upload the Classification, Clustering and deployment parts ipynb code file into "Google Colab"  
 - Press "Run All" in the control panel or "Restart Kernel and Run All" to run all code for Classification and  Clustering notebooks
