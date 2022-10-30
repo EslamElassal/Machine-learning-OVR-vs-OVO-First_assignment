@@ -22,13 +22,8 @@ Machines.
 - [requests](https://pypi.org/project/requests/) (library to easily use API with python)
 - [json](https://docs.python.org/3/library/json.html) (library to easily use JSON with python)
 - [sklearn](https://scikit-learn.org/stable/) (Machine Learning and Data Analysis Library in Python)
-- [nltk](https://www.nltk.org/) (The fundamental package for Natural Language Processing with Python)
 - [matplotlib](https://matplotlib.org/) (Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python)
 - [seaborn](https://seaborn.pydata.org/) (Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.)
-- [gensim](https://radimrehurek.com/gensim/index.html) (library for training of vector embeddings, topic modelling, document indexing and similarity retrieval with large corpora – Python or otherwise.)
-- [pyldavis](https://pyldavis.readthedocs.io/en/latest/readme.html) (pyLDAvis is designed to help users interpret the topics in a topic model that has been fit to a corpus of text data. The package extracts information from a fitted LDA topic model to inform an interactive web-based visualization.)
-- [transformers](https://pypi.org/project/transformers/2.1.0/) (State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch
-
 )
 - [wordcloud](https://pypi.org/project/wordcloud/) (A little word cloud generator in Python)
 - [spacy](https://spacy.io/) (spaCy is a free open-source library for Natural Language Processing in Python.)
